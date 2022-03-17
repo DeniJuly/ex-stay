@@ -9,7 +9,7 @@ export default function Home() {
 				<title>EzStay - Travel With Us, Cheaply</title>
 				<meta name="description" content="EzStay provide the best, low price, and good place to stay for tourism, Travel With Us, Cheaply" />
 				<link rel="preconnect" href="https://fonts.googleapis.com" />
-				<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+				<link rel="preconnect" href="https://fonts.gstatic.com" />
 				<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap" rel="stylesheet" />
 			</Head>
 			{/* Header */}
