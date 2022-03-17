@@ -20,11 +20,11 @@ export default function Home() {
 						Stay
 					</h1>
 					<div className="flex items-center">
-						<Link href="/" className="px-6 py-2 text-black font-semibold" passHref>
-							Login
+						<Link href="/" passHref>
+							<div className="px-6 py-2 text-black font-semibold">Login</div>
 						</Link>
-						<Link href="/" className="px-6 py-2 text-white font-semibold bg-primary rounded-lg" passHref>
-							Sign Up
+						<Link href="/" passHref>
+							<div className="px-6 py-2 text-white font-semibold bg-primary rounded-lg">Sign Up</div>
 						</Link>
 					</div>
 				</div>
